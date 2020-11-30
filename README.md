@@ -1,0 +1,2 @@
+# negoco
+A JavaScript project
